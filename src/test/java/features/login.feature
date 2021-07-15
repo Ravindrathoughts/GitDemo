@@ -11,3 +11,5 @@ Given I am adding code to previous code added by Asian guy here.
 
 When Architect came and wants to do some changes or modifications to the existing code , he needs to have a separate 
 branch
+
+When I am checking the functionality wise whether it is working properly or not.
